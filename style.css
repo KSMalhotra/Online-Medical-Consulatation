@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    background-color:coral
+}
+
+.cute{
+    border: dashed black;
+    border-radius: 20px;
+}
